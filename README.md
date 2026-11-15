@@ -1,65 +1,107 @@
-# LIVORA — Smart Living Platform
+# LIVORA 🏡
+### Smart Living Platform for PGs & Hostels
 
-**One Platform. Smarter PG Management.**
+**One platform. Smarter PG management.**
 
-LIVORA is a smart living platform concept designed to make Paying Guest (PG) and hostel management easier for property owners and students. It brings everyday accommodation workflows—such as room allocation, rent tracking, food feedback, maintenance requests, and staff management—into one place.
+LIVORA is a smart living platform designed to simplify the everyday experience of managing and living in a Paying Guest (PG) accommodation or hostel. It brings students, property owners, rooms, rent, food feedback, maintenance, and staff operations into one organized digital experience.
 
-## 🏆 Achievement
-
-**First Prize Winner**
-
-LIVORA received **1st Prize** in a project competition.  
-PROJECT PRISM2.0
-
-## 💡 The Problem
-
-PG and hostel operations can become difficult to coordinate when room allocation, rent records, food feedback, maintenance issues, and communication are handled through separate or manual processes.
-
-## 🚀 Our Approach
-
-LIVORA aims to provide a unified platform with dedicated experiences for PG owners and students.
-
-## ✨ Key Features
-
-- **Owner dashboard** — a dedicated view for managing PG operations.
-- **Student dashboard** — a dedicated view for student-related information and requests.
-- **Room and bed management** — organize floors, rooms, beds, occupancy, and sharing types.
-- **Rent management** — keep track of rent and payment status.
-- **Food feedback** — let students share ratings and feedback about meals.
-- **Maintenance management** — record and follow up on maintenance complaints.
-- **Staff management** — manage staff payment and leave information.
-
-## 🧰 Built With
-
-- **Google AI Studio** — AI-assisted app development / vibe coding.
-
-> Add the exact frontend, backend, database, and other technologies used by the current project before publishing a technical stack.
-
-## 📸 Screenshots
-
-Add screenshots of the actual LIVORA application here.
-
-Suggested screenshots:
-- Owner dashboard
-- Student dashboard
-- Room and bed management
-- Rent management
-- Food feedback and maintenance
-
-## 🔭 Future Scope
-
-- Secure user authentication and role-based access
-- Online rent payments
-- Real-time notifications
-- Detailed reports and analytics
-- Mobile-friendly experience
-
-## 👨‍💻 Project
-
-**Project name:** LIVORA  
-**Category:** Smart Living / PG & Hostel Management  
-**Recognition:** First Prize
+> 🏆 **1st Prize Winner — PROJECT PRISM 2.0**
 
 ---
 
-*Built to make PG and hostel living smarter, simpler, and more organized.*
+## 🌟 Why LIVORA?
+
+Managing a PG or hostel involves much more than assigning a room. Owners need to keep track of room availability, occupancy, rent, food quality, maintenance requests, and staff operations. Students, meanwhile, need a clear way to share feedback, raise complaints, and stay informed.
+
+When these activities are handled through scattered messages, registers, and manual follow-ups, information can become difficult to manage.
+
+**LIVORA brings these essential workflows together in one platform.**
+
+## 🎯 The Problem We Aim to Solve
+
+- Room and bed availability can be difficult to track.
+- Rent records and pending payments need regular follow-up.
+- Students may not have a structured channel for food feedback.
+- Maintenance complaints can get lost or remain unresolved.
+- Staff payments and leave records add another layer of manual work.
+- Owners and students need different views of the same accommodation.
+
+## 💡 The LIVORA Solution
+
+LIVORA is designed around two primary experiences:
+
+| Owner experience | Student experience |
+| --- | --- |
+| Manage accommodation operations | View relevant accommodation information |
+| Organize floors, rooms, and beds | Share food feedback |
+| Track occupancy and rent status | Raise maintenance complaints |
+| Manage staff payments and leave | Communicate accommodation-related issues |
+
+A role-switching interface helps demonstrate the separate owner and student views.
+
+## ✨ Key Features
+
+### 🏢 Property, Room & Bed Management
+- Organize a property by floors and rooms.
+- Track beds and occupancy.
+- Support single, double, and triple-sharing room types.
+- Keep room allocation information organized.
+
+### 💳 Rent Management
+- Maintain rent and payment records.
+- Track paid and pending amounts.
+- Support rent receipt workflows.
+
+### 🍽️ Food Feedback
+- Let students rate meals and share feedback.
+- Give owners a clearer view of the food experience.
+
+### 🛠️ Maintenance & Complaints
+- Provide a structured way to report maintenance issues.
+- Help owners keep track of reported problems and follow-ups.
+
+### 👥 Staff Management
+- Maintain staff payment information.
+- Organize staff leave records.
+
+### 🔄 Separate Owner & Student Views
+- Dedicated dashboards for the two user roles.
+- A simple role-switching experience for demonstrating each view.
+
+## 🏆 Recognition
+
+**LIVORA — 1st Prize, PROJECT PRISM 2.0**
+
+This recognition celebrates the idea of making PG and hostel operations more organized through a unified digital platform.
+
+## 🧠 Development Approach
+
+LIVORA was created using **Google AI Studio and AI-assisted vibe coding**. The development process focused on translating a real-world accommodation management problem into a practical product experience.
+
+## 🗺️ Product Roadmap
+
+Ideas for further development include:
+
+- Secure authentication and role-based access control.
+- A production-ready database and reliable data persistence.
+- Online rent payments and automated receipts.
+- Notifications for rent due dates and maintenance updates.
+- Detailed occupancy, revenue, and feedback analytics.
+- Improved mobile experience for students and owners.
+
+## 📸 Product Preview
+
+The repository will showcase LIVORA's actual application screens as project screenshots are added.
+
+## 👨‍💻 Project Details
+
+| Detail | Information |
+| --- | --- |
+| Project | LIVORA |
+| Category | Smart Living / PG & Hostel Management |
+| Development approach | Google AI Studio, AI-assisted vibe coding |
+| Award | 1st Prize — PROJECT PRISM 2.0 |
+
+---
+
+**LIVORA — making PG and hostel living smarter, simpler, and more organized.**
