@@ -78,7 +78,7 @@ This recognition celebrates the idea of making PG and hostel operations more org
 
 ## 🧠 Development Approach
 
-LIVORA was created using **Google AI Studio and AI-assisted vibe coding**. The development process focused on translating a real-world accommodation management problem into a practical product experience.
+LIVORA was created using **AI-assisted development and AI-assisted vibe coding**. The development process focused on translating a real-world accommodation management problem into a practical product experience.
 
 ## 🗺️ Product Roadmap
 
@@ -101,7 +101,7 @@ The repository will showcase LIVORA's actual application screens as project scre
 | --- | --- |
 | Project | LIVORA |
 | Category | Smart Living / PG & Hostel Management |
-| Development approach | Google AI Studio, AI-assisted vibe coding |
+| Development approach | AI-assisted development, AI-assisted vibe coding |
 | Award | 1st Prize — PROJECT PRISM 2.0 |
 | Live app | [Open LIVORA](https://ai.studio/apps/6e220766-566c-4476-a43b-53e539927f03) |
 
