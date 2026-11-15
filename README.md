@@ -9,7 +9,7 @@ LIVORA is a smart living platform concept designed to make Paying Guest (PG) and
 **First Prize Winner**
 
 LIVORA received **1st Prize** in a project competition.  
-*Competition/event details can be added here.*
+PROJECT PRISM2.0
 
 ## 💡 The Problem
 
