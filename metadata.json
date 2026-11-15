@@ -1,0 +1,6 @@
+{
+  "name": "LIVORA",
+  "description": "LIVORA is a multi-property platform connecting transparent citywide hostel and PG discovery with comprehensive smart living and operations management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
