@@ -3,6 +3,8 @@
 
 **One platform. Smarter PG management.**
 
+🔗 **[Open LIVORA App](https://ai.studio/apps/6e220766-566c-4476-a43b-53e539927f03)** · **[View Source Repository](https://github.com/wasimchoudhury27/livora-smart-living)**
+
 LIVORA is a smart living platform designed to simplify the everyday experience of managing and living in a Paying Guest (PG) accommodation or hostel. It brings students, property owners, rooms, rent, food feedback, maintenance, and staff operations into one organized digital experience.
 
 > 🏆 **1st Prize Winner — PROJECT PRISM 2.0**
@@ -101,6 +103,7 @@ The repository will showcase LIVORA's actual application screens as project scre
 | Category | Smart Living / PG & Hostel Management |
 | Development approach | Google AI Studio, AI-assisted vibe coding |
 | Award | 1st Prize — PROJECT PRISM 2.0 |
+| Live app | [Open LIVORA](https://ai.studio/apps/6e220766-566c-4476-a43b-53e539927f03) |
 
 ---
 
